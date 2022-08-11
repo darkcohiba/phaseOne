@@ -6,4 +6,4 @@ function sumAll(number){
     }
 }
 
-console.log(sumAll(10))
+console.log(sumAll(100))
